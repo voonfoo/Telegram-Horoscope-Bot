@@ -5,7 +5,7 @@ import pickle
 import markups as markup
 from bs4 import BeautifulSoup
 
-bot = telebot.TeleBot("630146517:AAFgWGP9v6wbhQvHjVk9tushwwBnjf36mvw")
+bot = telebot.TeleBot("YOUR TOKEN")
 
 my_dict =  {"Aries":1,
             "Taurus":2,             
